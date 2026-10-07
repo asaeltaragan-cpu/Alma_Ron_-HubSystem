@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git push -u origin claude/stoic-cray-ex3wom)"
-    ]
-  }
-}
